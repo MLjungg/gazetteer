@@ -6,7 +6,7 @@ The file "find_synonyms" is based on word embeddings and the algorithm nearest n
 
 To run the code you need to specify/customize the following in the find_synonms file:
 - The variable cathegories: define your cathegory and some words belonging to this cathegory.
-- Similarity threshold: how similar a word has to be in order for it to be consider a semantic synonym. It ranges from 0-1 where 1 is completely similar.
+- Similarity threshold: how similar a word has to be in order for it to be considered a semantic synonym. It ranges from 0-1 where 1 is completely similar.
 
 You also need to download a word embedding file, this can be found here:
 http://vectors.nlpl.eu/repository/#
