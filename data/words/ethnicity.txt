@@ -1,0 +1,7 @@
+Looking for synonyms to:['svensk', 'afrikan', 'utomeuropeisk']
+svensk
+finsk-svensk
+afrikan
+amerikan
+utomeuropeisk
+icke-europeisk

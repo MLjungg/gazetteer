@@ -1,0 +1,6 @@
+ETHNICITY	svensk
+ETHNICITY	finsk-svensk
+ETHNICITY	afrikan
+ETHNICITY	amerikan
+ETHNICITY	utomeuropeisk
+ETHNICITY	icke-europeisk
