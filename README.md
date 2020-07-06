@@ -11,4 +11,6 @@ To run the code you need to specify/customize the following in the find_synonms 
 You also need to download a word embedding file, this can be found here:
 http://vectors.nlpl.eu/repository/#
 
-In the data directory you will find my attemp to find words belonging to the cathegories "HEALTH" and "POLITICS".
+The run time is approx 1 h.
+
+In the data directory you will find my attemp to find words belonging to the GDPR sensitive cathegories: health, poltiics, race, sexual orientation and religion.
