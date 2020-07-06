@@ -2,7 +2,7 @@
 
 This repository was created to find words belonging to a specific cathegory, creating so called gazeeteers. This can be useful when you want to label data used to train a NER model.
 
-The file "find_synonyms" is based on word embeddings and the algorithm nearest neighbour to find words that have a similar semantic meaning.
+The file "find_synonyms" exploits word embeddings with the algorithm nearest neighbour to find words that have a similar semantic meaning.
 
 To run the code you need to specify/customize the following in the find_synonyms file:
 - The variable cathegories: define your cathegory and some words belonging to this cathegory.
